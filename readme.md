@@ -21,7 +21,7 @@
 > Đây là tab phần cắt Game. Nếu nhấn nút Button thì sẽ mở form Game
 >
 ## 2. Form EDA:
-![Alt text](G3_84_LeThanhVinh_ChessWomen/EDAMain.png?raw=true "Title")
+![Alt text](G3_84_LeThanhVinh_ChessWomen/EDAmain.png?raw=true "Title")
 > Các chức năng liên quan đến *EDA*:
 > 
   Có các nút để mở các chức năng như **mở file**, **xử lí cột null**, **xử lí dòng null**, **z-core**, **chuẩn hóa**.
